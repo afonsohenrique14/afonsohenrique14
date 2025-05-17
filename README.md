@@ -1,4 +1,4 @@
-
+```python
 perfil_dev = {
     "nome": "Afonso Henrique Guimarães de Oliveira",
     "titulo": "Desenvolvedor | Automação & Eficiência",
@@ -34,3 +34,4 @@ print(perfil_dev)
 print(f"Nome: {perfil_dev['nome']}")
 print(f"Linguagens: {', '.join(perfil_dev['tecnologias_habilidades']['linguagens'])}")
 print(f"GitHub: {perfil_dev['onde_me_encontrar']['github']}")
+python```
