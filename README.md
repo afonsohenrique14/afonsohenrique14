@@ -1,5 +1,5 @@
 <h1>👋 Hey there!</h1>
-##I'm Afonso Henrique, um desenvolvedor apaixonado por automação, deploy inteligente e versionamento eficiente. Com experiência em desenvolvimento de sistemas departamentais na Caixa Econômica Federal, busco sempre otimizar processos e criar soluções escaláveis.
+<p>I'm Afonso Henrique, um desenvolvedor apaixonado por automação, deploy inteligente e versionamento eficiente. Com experiência em desenvolvimento de sistemas departamentais na Caixa Econômica Federal, busco sempre otimizar processos e criar soluções escaláveis.</p>
 
 <h1>🚀 Tecnologias & Habilidades</h1>
 <p>📌 Linguagens: Python, JavaScript, SQL, VBA, HTML, CSS</p>
@@ -52,17 +52,28 @@ print(f"GitHub: {perfil_dev['onde_me_encontrar']['github']}")
 
 <h1>💻 Languages and Tools</h1>
 <p align="center">
-<p align="center">
-<div align="center">
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"> HTML</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"> CSS</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> JavaScript</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlserver/sqlserver.png"> SQL Server</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"> Git</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"> Docker</code>
-    
-</div>
+<table>
+    <tr>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><br>Python</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"><br>HTML</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"><br>CSS</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"><br>JavaScript
+        </td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"><br>SQL
+            Server</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"><br>Git</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"><br>GitHub</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"><br>Docker</td>
+    </tr>
+</table>
 </p>
 
 
