@@ -54,7 +54,7 @@ With experience at **Caixa Econômica Federal**, I focus on **optimizing process
   
 ## 📫 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/afonsohenrique14)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/afonso_henrique14)
 
 
 ## ⚙️ Code Profile
