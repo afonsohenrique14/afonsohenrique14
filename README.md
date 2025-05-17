@@ -1,6 +1,9 @@
 # 👋 About Me
 I'm **Afonso Henrique**, a developer passionate about **automation, intelligent deployment, and efficient versioning**.  
 With experience at **Caixa Econômica Federal**, I focus on **optimizing processes** and building **scalable solutions**.
+📫 **Email:** afonsohenrique@email.com
+
+
 
 ## 🛠️ Skills
 - **Process Automation – Streamlining workflows for efficiency**
@@ -51,6 +54,7 @@ With experience at **Caixa Econômica Federal**, I focus on **optimizing process
   
 ## 📫 Where to Find Me
 [![LinkedIn: Afonso Henrique](https://img.shields.io/badge/-Afonso%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)](https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)  [![GitHub Afonso](https://img.shields.io/github/followers/afonsohenrique14?label=Follow&style=social)](https://github.com/afonsohenrique14)
+
 
 ## ⚙️ Code Profile
 
