@@ -53,7 +53,8 @@ With experience at **Caixa Econômica Federal**, I focus on **optimizing process
 - 🐳 **Scalable Applications with Docker**
   
 ## 📫 Where to Find Me
-[![LinkedIn: Afonso Henrique](https://img.shields.io/badge/-Afonso%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)](https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)  [![GitHub Afonso](https://img.shields.io/github/followers/afonsohenrique14?label=Follow&style=social)](https://github.com/afonsohenrique14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/afonsohenrique14)
 
 
 ## ⚙️ Code Profile
