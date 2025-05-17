@@ -45,7 +45,6 @@ perfil_dev = {
 
 print(f"Nome: {perfil_dev['nome']}")
 print(f"Linguagens: {', '.join(perfil_dev['linguagens'])}")
-print(f"GitHub: {perfil_dev['onde_me_encontrar']['github']}")
 
 ```
 
