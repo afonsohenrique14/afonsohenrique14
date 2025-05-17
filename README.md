@@ -19,6 +19,34 @@
 <p>- Exploring Docker for automation and scalability 🐳</p>
 <p>- Contributing to a more automated, efficient, and organized world! 😃</p>
 
+<h1>💻 Languages and Tools</h1>
+<p align="center">
+<table>
+    <tr>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><br>Python</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"><br>HTML</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"><br>CSS</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"><br>JavaScript
+        </td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"><br>SQL
+            Server</td>
+         <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"><br>Postgre</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"><br>Git</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"><br>GitHub</td>
+        <td align="center"><img height="40"
+                src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"><br>Docker</td>
+    </tr>
+</table>
+</p>
+
 <h1>📫  Where to find me</h1>
 
 [![LinkedIn: Afonso Henrique](https://img.shields.io/badge/-Afonso%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)](https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)  [![GitHub Afonso](https://img.shields.io/github/followers/afonsohenrique14?label=Follow&style=social)](https://github.com/afonsohenrique14)
@@ -48,33 +76,7 @@ print(f"Linguagens: {', '.join(perfil_dev['linguagens'])}")
 
 ```
 
-<h1>💻 Languages and Tools</h1>
-<p align="center">
-<table>
-    <tr>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><br>Python</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"><br>HTML</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"><br>CSS</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"><br>JavaScript
-        </td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"><br>SQL
-            Server</td>
-         <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"><br>Postgre</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"><br>Git</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"><br>GitHub</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"><br>Docker</td>
-    </tr>
-</table>
-</p>
+
 
 
 
