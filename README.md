@@ -1,30 +1,32 @@
-#👋 Hey there!
+<h1>👋 Hey there!</h1>
 ##I'm Afonso Henrique, um desenvolvedor apaixonado por automação, deploy inteligente e versionamento eficiente. Com experiência em desenvolvimento de sistemas departamentais na Caixa Econômica Federal, busco sempre otimizar processos e criar soluções escaláveis.
 
-#🚀 Tecnologias & Habilidades
-##📌 Linguagens: Python, JavaScript, SQL, VBA, HTML, CSS
-##📌 Banco de Dados: MySQL, PostgreSQL
-##📌 Versionamento: Git, GitHub Actions
-##📌 Deploy & CI/CD: Automação de publicações e gerenciamento de versões
-##📌 Aprendizado Contínuo: Atualmente explorando Docker para otimizar implantação e escalabilidade de aplicações
+<h1>🚀 Tecnologias & Habilidades</h1>
+<p>📌 Linguagens: Python, JavaScript, SQL, VBA, HTML, CSS</p>
+<p>📌 Banco de Dados: MySQL, PostgreSQL<p>
+<p>📌 Versionamento: Git, GitHub Actions<p>
+<p>📌 Deploy & CI/CD: Automação de publicações e gerenciamento de versões<p>
+<p>📌 Aprendizado Contínuo: Atualmente explorando Docker para otimizar implantação e escalabilidade de aplicações<p>
 
-#🎓 Formação Acadêmica
-##- Bacharelado em Ciências Contábeis - Universidade Federal do Tocantins (UFT)
-##- Pós-Graduação em Contabilidade Pública - Faculdade Unyleya
-##- Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIFAVIP Wyden
+<h1>🎓 Formação Acadêmica</h1>
+<p>- Bacharelado em Ciências Contábeis - Universidade Federal do Tocantins (UFT)</p>
+<p>- Pós-Graduação em Contabilidade Pública - Faculdade Unyleya</p>
+<p>- Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIFAVIP Wyden</p>
 
-#🏗️ Projetos em Destaque
-##- Automação de deploys com GitHub Actions 🚀
-##- Sistemas financeiros e departamentais 📊
-##- Explorando Docker para automação e escalabilidade 🐳
-##- Contribuindo para um mundo mais automatizado, eficiente e organizado! 😃
+<h1>🏗️ Projetos em Destaque</h1>
+<p>- Automação de deploys com GitHub Actions 🚀</p>
+<p>- Sistemas financeiros e departamentais 📊</p>
+<p>- Explorando Docker para automação e escalabilidade 🐳</p>
+<p>- Contribuindo para um mundo mais automatizado, eficiente e organizado! 😃</p>
 
-📫 Onde me encontrar
-##[![LinkedIn: Afonso Henrique](https://img.shields.io/badge/-Afonso%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)](https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)  
-##[![GitHub Afonso](https://img.shields.io/github/followers/afonsohenrique14?label=Follow&style=social)](https://github.com/afonsohenrique14)  
+<h1>📫 Onde me encontrar</h1>
+
+[![LinkedIn: Afonso Henrique](https://img.shields.io/badge/-Afonso%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)](https://www.linkedin.com/in/afonso-henrique-guimarães-oliveira/)  
+[![GitHub Afonso](https://img.shields.io/github/followers/afonsohenrique14?label=Follow&style=social)](https://github.com/afonsohenrique14)
 
 
-#⚙️ Code Profile
+<h1>⚙️ Code Profile</h1>
+
 ``` python
 
 perfil_dev = {
@@ -48,8 +50,20 @@ print(f"GitHub: {perfil_dev['onde_me_encontrar']['github']}")
 
 ```
 
-#💻 Languages and Tools
-<p align="center"><div align="center"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python</code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"> HTML</code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"> CSS</code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> JavaScript</code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlserver/sqlserver.png"> SQL Server</code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"> Git</code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"> Docker</code></div></p>
+<h1>💻 Languages and Tools</h1>
+<p align="center">
+<p align="center">
+<div align="center">
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"> HTML</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"> CSS</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> JavaScript</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlserver/sqlserver.png"> SQL Server</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"> Git</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"> Docker</code>
+    
+</div>
+</p>
 
 
 
