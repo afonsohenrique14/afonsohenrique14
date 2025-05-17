@@ -3,29 +3,20 @@ I'm **Afonso Henrique**, a developer passionate about **automation, intelligent 
 With experience at **Caixa Econômica Federal**, I focus on **optimizing processes** and building **scalable solutions**.
 
 ## 🚀 Technologies & Skills
-<table>
-    <tr>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><br>Python</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"><br>HTML</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"><br>CSS</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"><br>JavaScript
-        </td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"><br>SQL
-            Server</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"><br>Git</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"><br>GitHub</td>
-        <td align="center"><img height="40"
-                src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"><br>Docker</td>
-    </tr>
-</table>
- 
+📌 **Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)  
+
+📌 **Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)   ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)   
+
+📌 **Versioning & CI/CD:**  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+
+📌 **Exploring:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)   
+
+
+
 
 
 
