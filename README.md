@@ -2,6 +2,16 @@
 I'm **Afonso Henrique**, a developer passionate about **automation, intelligent deployment, and efficient versioning**.  
 With experience at **Caixa Econômica Federal**, I focus on **optimizing processes** and building **scalable solutions**.
 
+## 🛠️ Skills
+- **Process Automation – Streamlining workflows for efficiency**
+- **CI/CD Implementation – Automated deployments with GitHub Actions**
+- **Version Control – Git for efficient source management**
+- **Database Management – SQL Server & PostgreSQL optimization**
+- **Web Development – Frontend & backend integration**
+- **Scalability & Deployment – Exploring Docker for containerized application**
+
+
+
 ## 🚀 Technologies & Skills
 📌 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)  
@@ -11,6 +21,14 @@ With experience at **Caixa Econômica Federal**, I focus on **optimizing process
 
 📌 **Versioning & CI/CD:**  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+
+📌 **Libraries & Frameworks:**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)    ![JQUEY](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)   
+
+📌 **Development Tools:**
+
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 📌 **Exploring:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)   
