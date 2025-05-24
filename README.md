@@ -1,7 +1,7 @@
 # 👋 About Me
 I'm **Afonso Henrique**, a developer passionate about **automation, intelligent deployment, and efficient versioning**.  
 With experience at **Caixa Econômica Federal**, I focus on **optimizing processes** and building **scalable solutions**.
-📫 **Email:** afonsohenrique@email.com
+📫 **Email:** afonsoguimaraes.dev@gmail.com
 
 
 
