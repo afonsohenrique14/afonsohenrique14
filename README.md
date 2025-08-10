@@ -27,7 +27,7 @@ With experience at **Caixa Econômica Federal**, I focus on **optimizing process
 
 📌 **Libraries & Frameworks:**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)    ![JQUEY](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)   
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Django](https://img.shields.io/badge/django-150458.svg?style=for-the-badge&logo=django&logoColor=white)   ![JQUEY](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)   
 
 📌 **Development Tools:**
 
